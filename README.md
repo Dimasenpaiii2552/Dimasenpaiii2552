@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Blockchain projects
 - 📫 How to reach me edimaakpan2552@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy debugging more than writing code
+- ⚡ Fun fact: Nothing fun
 
 <!---
 Dimasenpaiii2552/Dimasenpaiii2552 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
