@@ -28,7 +28,14 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
+### Achievements 
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)  
+<img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto,q_auto/v1748556702/assets/foundry-fundamentals.png" width="200"/>  
+<img src="https://res.cloudinary.com/droqoz7lg/image/upload/f_auto,q_auto/v1748556702/assets/advanced-foundry-1749211036.png" width="200"/>  
 
+
+
+---
 ### 📊 GitHub Stats
 
 <p align="center">
